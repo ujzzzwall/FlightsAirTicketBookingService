@@ -50,7 +50,6 @@ class BookingRepository{
       throw error;
     }
   }
-
 }
 
 module.exports = BookingRepository;
